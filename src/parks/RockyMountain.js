@@ -8,4 +8,7 @@ function elevation() {
   console.log("9583 ft");
 }
 
+<wildlife />
+{/* <elevation /> */}
+
 export { trees, wildlife };
